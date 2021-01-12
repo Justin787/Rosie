@@ -1,0 +1,22 @@
+Created on 1/11/2021 by Justin J. Decru
+
+Thank you for downloading my antivirus program!
+Rosie will take many hours to complete the scan, so be prepared.
+I recommend running the program in manual malware delete mode, 
+due to the lack of safety in the AutoDelete function.
+Make sure to run as Administrator...
+
+How Rosie Works:
+Rosie dives deep into your PC to scan for any malware signatures
+that may be found in my database. 
+1.) Rosie finds a file.
+2.) The file MD5 is identified.
+3.) The file MD5 is compared to a list of malware MD5 hashes.
+4.) Rosie will decide whether the file is safe or malicious.
+5.) This process is repeated as Rosie scans your PC.
+
+
+[DISCLAIMER]
+
+I AM NOT RESPONSIBLE IF THIS IMPACTS YOUR PC IN ANY NEGATIVE WAY.
+ROSIE IS IN ITS MOST BASIC FORM. USE AT YOUR OWN RISK.
