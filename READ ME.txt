@@ -6,6 +6,8 @@ I recommend running the program in manual malware delete mode,
 due to the lack of safety in the AutoDelete function.
 Make sure to run as Administrator...
 
+-Please report any bugs/feedback at https://github.com/Justin787/Rosie/issues
+
 How To Use:
 1.) Download ZIP folder
 2.) Extract files to secure location on PC
