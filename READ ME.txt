@@ -11,9 +11,11 @@ Make sure to run as Administrator...
 How To Use:
 1.) Download ZIP folder
 2.) Extract files to secure location on PC
-3.) Read disclaimer
-4.) Run Rosie as administrator
-5.) Follow instructions inside program
+3.) Use 7-Zip to extract MD5BaseMass001, MD5BaseMass002, MD5BaseMass003 to the same file
+4.) Take MD5BaseMass.txt out of folder created by 7-Zip, so it is in the original folder next to MD5Base.txt
+5.) Read disclaimer
+6.) Run Rosie as administrator
+7.) Follow instructions inside program
 
 How Rosie Works:
 Rosie dives deep into your PC to scan for any malware signatures
